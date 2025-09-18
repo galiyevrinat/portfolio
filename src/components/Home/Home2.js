@@ -6,6 +6,7 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn, FaTelegramPlane } from "react-icons/fa";
 
@@ -106,6 +107,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaTelegramPlane />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:galiyev.2.pay@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillMail />
                 </a>
               </li>
               {/* <li className="social-icons">

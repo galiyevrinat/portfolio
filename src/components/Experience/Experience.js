@@ -6,6 +6,18 @@ import ExperienceCard from "./ExperienceCard";
 function Experience() {
   const experiences = [
     {
+      company: "Arileus Intelligence Systems LLC",
+      location: "Remote",
+      period: "Present",
+      title: "Full Stack Engineer",
+      website: "https://arileus.ai",
+      achievements: [
+        "Currently employed as a Full Stack Engineer at Arileus Intelligence Systems LLC, contributing to innovative AI-driven solutions and intelligent systems development.",
+        "Working with cutting-edge technologies to build scalable and efficient applications for the intelligence systems domain.",
+        "Collaborating with cross-functional teams to deliver high-quality software solutions that meet business requirements and technical specifications."
+      ]
+    },
+    {
       company: "INTEGRA SOURCES",
       location: "Astana, Kazakhstan",
       period: "Feb 2020 – Jan 2025",

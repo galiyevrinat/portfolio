@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rinat Galiyev </span>
             from <span className="purple"> Kazakhstan.</span>
             <br />
-            I am a <span className="purple">Senior Full Stack Engineer</span>, and now I'm open to work.
+            I am currently employed as a <span className="purple">Full Stack Engineer</span> at <span className="purple">Arileus Intelligence Systems LLC</span>.
             <br/>
-            I can start immediately.
+            Visit our company website at <a href="https://arileus.ai" target="_blank" rel="noopener noreferrer" className="purple" style={{textDecoration: 'underline'}}>arileus.ai</a>.
             <br />
             I completed my <span className="purple">Bachelor of Science</span> in Computer Science at Satbayev University.
             <br />
