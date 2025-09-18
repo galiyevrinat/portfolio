@@ -18,9 +18,9 @@ function Experience() {
       ]
     },
     {
-      company: "INTEGRA SOURCES",
+      company: "Resolventa",
       location: "Astana, Kazakhstan",
-      period: "Feb 2020 – Jan 2025",
+      period: "Jan 2020 – Nov 2024",
       title: "Senior Full Stack JavaScript & AI/ML Engineer",
       achievements: [
         "AI-Powered Predictive Lending Model: Implemented a real-time predictive lending model using Python, TensorFlow and Azure ML, reducing loan approval time by 25%.",
@@ -37,9 +37,9 @@ function Experience() {
       ]
     },
     {
-      company: "Fora Soft",
+      company: "Integra Sources ",
       location: "Astana, Kazakhstan",
-      period: "Feb 2017 – Jan 2020",
+      period: "Aug 2016 – Dec 2019",
       title: "Full Stack JavaScript & Python Engineer",
       achievements: [
         "AI-Powered Patient Adherence Monitoring System: Built a medical adherence tracking system using Python (TensorFlow, Scikit-learn), AWS SageMaker, and FastAPI, which increased prescription adherence by 30%.",
@@ -53,9 +53,9 @@ function Experience() {
       ]
     },
     {
-      company: "Logrus IT",
+      company: "CodeSmith",
       location: "Almaty, Kazakhstan",
-      period: "Jun 2012 – Jan 2017",
+      period: "Jun 2014 – Jul 2016",
       title: "JavaScript Developer",
       achievements: [
         "React-Based PatientManager Platform: Developed React.js and Redux-based healthcare dashboards for Vyera's PatientManager system, enhancing data retrieval speeds by 40%.",
