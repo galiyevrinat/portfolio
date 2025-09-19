@@ -15,7 +15,7 @@ function AboutCard() {
             <br/>
             Visit our company website at <a href="https://arileus.ai" target="_blank" rel="noopener noreferrer" className="purple" style={{textDecoration: 'underline'}}>arileus.ai</a>.
             <br />
-            I completed my <span className="purple">Bachelor of Science</span> in Computer Science at Satbayev University.
+            I completed my <span className="purple">Master of Science</span> in Computer Science at Nazarbayev University.
             <br />
             <br />
             <h1 style={{ fontSize: "1.1em", paddingBottom: "20px" }}>
